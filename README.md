@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # Implementation-of-Linear-Regression-for-Predicting-Car-Prices
 <H3>NAME: VINCY JOVITHA V </H3>
 <H3>REGISTER NO.: 212223230524</H3>
