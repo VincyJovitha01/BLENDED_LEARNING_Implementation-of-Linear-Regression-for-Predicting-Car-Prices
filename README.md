@@ -1,7 +1,5 @@
-# Implementation-of-Linear-Regression-for-Predicting-Car-Prices
-<H3>NAME: VINCY JOVITHA V </H3>
-<H3>REGISTER NO.: 212223230242</H3>
-<H3>EX. NO.1</H3>
+# Ex:01 Implementation-of-Linear-Regression-for-Predicting-Car-Prices
+
 <H3>DATE:</H3>
 
 ## AIM:
