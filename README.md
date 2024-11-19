@@ -1,7 +1,7 @@
 # BLENDED_LEARNING
 # Implementation-of-Linear-Regression-for-Predicting-Car-Prices
-<H3>NAME: KEERTHANA S</H3>
-<H3>REGISTER NO.: 212223240070</H3>
+<H3>NAME: VINCY JOVITHA V S</H3>
+<H3>REGISTER NO.: 212223230524</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE:</H3>
 
